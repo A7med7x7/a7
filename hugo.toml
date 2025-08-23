@@ -7,12 +7,12 @@ theme="nightfall"
 user = "a7"
 hostname = "github.io"
 
-  [params.author]
-    name = "A.Alghali"
-#    avatar = "assets/pfps/avatar.jpg"
-    avatarSize = "size-m"
-    email = "ahmed@offsechq.com"
-    avatarFirst = false
+[params.author]
+name = "A.Alghali"
+#avatar = "assets/pfps/avatar.jpg"
+avatarSize = "size-m"
+email = "ahmed@offsechq.com"
+avatarFirst = false
 
 
 [[params.social]]
@@ -35,6 +35,6 @@ color = "blue"
 
 [menu]
   [[menu.header]]
-    name = "posts"
+    name = "blogs"
     weight = 0
     url = "/posts"
