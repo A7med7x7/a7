@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Aug 2025 09:32:11 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>http://localhost:1313/posts/helloworld/</link>
+      <pubDate>Sat, 23 Aug 2025 09:32:11 +0300</pubDate>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <description>&lt;p&gt;This is some &lt;code&gt;content&lt;/code&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-vb&#34; data-lang=&#34;vb&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;this &lt;span style=&#34;color:#f92672&#34;&gt;is&lt;/span&gt; a log &lt;span style=&#34;color:#f92672&#34;&gt;in&lt;/span&gt; terminal &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
