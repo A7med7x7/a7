@@ -100,14 +100,8 @@ Besides the system doing its job, there were **boosters** that helped keep it ru
   in short this monster was feeding itself. and apparently me.
 
 - **Irresistible features:**  
-My sister once made an observation during a family discussion about our dark past selves. She noticed that growing up (me), I had access to the bad world, with tons of wrong friends I could’ve made, but I chose not to.  
-The system has been doing a great job protecting me from harmful relationships — actual true negatives — the ones that really would’ve hurt me.
-
-The problem is, it also keeps making false positives: rejecting people who were good, who could’ve stayed. It convinces me that losing them was just self-protection,
-
-Though it’s hard to take the burden of "controlling the stream of love towards someone", it’s also hard to be stabbed in the back. The system has been doing a great job protecting me from harmful relationships, actual true negatives: the ones that really would’ve hurt me.
-
-yes indeed the problem is, it also keeps making false positives: rejecting people who were good, who could’ve stayed. It convinces me that losing them was just self-protection, There was no other way, it was either being armed with it or being naïve and cut by friends.  
+My sister once made an observation during a family discussion about our dark past selves. She noticed that growing up (me), I had access to the bad world, with tons of potential bad friends I could’ve made, but I chose not to.  
+The system has been doing a great job protecting me from harmful relationships, actual true negatives, the ones that really would’ve hurt me. The problem is, it also keeps making false positives: rejecting people who were good, who could’ve stayed. It convinces me that losing them was just self protection,Though it’s hard to take the burden of "controlling the stream of love towards someone", it’s also hard to be stabbed in the back. The system has been doing a great job protecting me from harmful relationships, There was no other way, it was either being armed with it or being naïve and cut by friends.  
 
 - **I’m good at keeping myself busy:**  
   The legacy system not only controls how much love I give to people, it controls *how many* people I give it to.  
