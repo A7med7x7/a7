@@ -63,7 +63,7 @@ I only stream what I think is sufficient to match their energy. The real downsid
 At this stage, the best scenario is to respect the walls and plan to tear them down over time (though sometimes they’re never meant to be broken).
 ### 1. Leakage in the system. 
 
-In theory, I get to decide that I will not invest emotions, by controlling the amount of lets say love I stream for some (love implies trust), just as computational theories ignore practical constraints, but in practice, emotions are not precisely controlled; they leak easily
+In theory, I get to decide that I will not invest emotions, by controlling the amount of lets say love I stream for someone (love implies trust), just as computational theories ignore practical constraints, but in practice, emotions are not precisely controlled; they leak easily
 ### 2. a double-edged sword.
 it is very common that I lose potential good friends in the process, and that hurts, seeing cool people leave. they realize how hard it is to deal with me, and then stop trying.  
 
