@@ -4,7 +4,7 @@ draft = false
 title = 'I fear the person I will become'
 categories = ['reflection']
 +++
-The velocity at which I'm updating my beliefs about the world has never been known to be slow; saying "Oops" and updating my beliefs implies updating my behavior if needed. This oscillating pattern of behavior has been defining the kind of oh love I receive in this world, updating a behavior is either bringing me joy by interacting with people, loving myself, or appreciating nature, or has led me to a series of overwhelm led by the need to solve the questions I’m cornered with. 
+The velocity at which I'm updating my beliefs about the world has never been known to be slow; saying "Oops" and updating my beliefs implies updating my behavior if needed. This oscillating pattern of behavior has been defining the kind and amount of love I receive in this world, updating a behavior is either bringing me joy by interacting with people, loving myself, or appreciating the world, or has led me to a series of overwhelm led by the need to solve the questions I’m cornered with. 
 
 The cycle starts with me being very concerned with a question, which, once I compose and unveil what it is, I see that it will take a lot from me. It will take my attention, my joy, and ultimately the time with my loved ones. Although the downsides of changing my behavior isn't stopping me from updating my beliefs, but makes updating my beliefs harder, makes it a grief. that again I will be a stranger to the person I just started to develop. The person I just started to love. myself.  
 
