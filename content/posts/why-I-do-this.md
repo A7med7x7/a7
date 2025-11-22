@@ -14,13 +14,13 @@ but looking back over the years I recall how writing started. how reasons change
 
 
 <!--more-->
-## The Seeds of Writing 🌱
+## The Seeds of Writing 
 
 - I've had an amazing language teachers (Tahia and Jamal) they encouraged me to write and read since I was a little 
 - I've been under the wings of people who are naturally good at writing (this probably influenced me I mean I used to write poets when I was a little)
 - I felt the need to express my feelings through writing (I've been actively journaling since 8th grade) 
 - **I've fall in love without `quotes`** and I become a collector at some point, they seemed to explain the world so I started crafting my own through writing (High school/teenager period)
-- **I've wished people could write more about their experiences** and not generic content (When I need some on to talk about Computer Science from their heart and not what they have studied [Reem's blog](https://sudaniscience.wordpress.com/) was my savior and then later I loved the writings of [Mohammed Yousif](https://adonese.sd/))
+- **I've wished people could write more about their experiences** and not generic content (When I needed someone to talk about Computer Science from their heart and experiece and not what they have studied [Reem's blog](https://sudaniscience.wordpress.com/) was my savior and then later I loved the writings of [Mohammed Yousif](https://adonese.sd/))
 - **I wanted to document my journey in life**, I wished if the eldest people in my life had a book/blog that they have left for me so I can get to know them more, even after they're gone. 
 - I wanted to make sense of my `doings`, I would write the task I should be doing for myself to see if I understand the procedure that supposed to happen and if there are any subtle pitfalls/misunderstanding I'm not aware of. 
 
