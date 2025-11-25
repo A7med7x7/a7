@@ -2,68 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://8ce657771462.ngrok-free.app/</link>
     <description>Recent content on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Mon, 10 Nov 2025 18:40:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Nov 2025 08:00:00 +0300</lastBuildDate>
+    <atom:link href="https://8ce657771462.ngrok-free.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning to Feel Again</title>
+      <link>https://8ce657771462.ngrok-free.app/posts/learning_to_feel_again/</link>
+      <pubDate>Fri, 21 Nov 2025 08:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>https://8ce657771462.ngrok-free.app/posts/learning_to_feel_again/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I think it&amp;rsquo;s important for people to present themselves as they are, which is messy, because to present yourself as perfect sets up an unfair standard for other people to live by.&amp;rdquo;&lt;br&gt;&#xA;— Simon Sinek&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>I fear the person I will become</title>
+      <link>https://8ce657771462.ngrok-free.app/posts/i_fear_the_person_i_will_become/</link>
+      <pubDate>Thu, 20 Nov 2025 07:38:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>https://8ce657771462.ngrok-free.app/posts/i_fear_the_person_i_will_become/</guid>
+      <description>&lt;p&gt;The velocity at which I&amp;rsquo;m updating my beliefs about the world has never been known to be slow; saying &amp;ldquo;Oops&amp;rdquo; and updating my beliefs implies updating my behavior if needed. This oscillating pattern of behavior has been defining the kind and amount of love I receive in this world, updating a behavior is either bringing me joy by interacting with people, loving myself, or appreciating the world, or has led me to a series of overwhelm led by the need to solve the questions I’m cornered with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The First Whisper of quitting</title>
+      <link>https://8ce657771462.ngrok-free.app/posts/the_first_whisper_of_quitting/</link>
+      <pubDate>Wed, 19 Nov 2025 18:30:25 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>https://8ce657771462.ngrok-free.app/posts/the_first_whisper_of_quitting/</guid>
+      <description>&lt;p&gt;I used to think that if someone starts thinking about &amp;ldquo;quitting something,&amp;rdquo; then they are already declining, and there won&amp;rsquo;t be a lot of time until they quit. Here, I&amp;rsquo;m interested in quitting things you once desired or set for yourself, out of reliable or reliable intrinsic or extrinsic motivator.&lt;/p&gt;&#xA;&lt;p&gt;Quitting usually involves the notion of  &amp;ldquo;leaving before achieving the bare minimum you set for yourself.&amp;rdquo; I never had the genuine thought of quitting something I truly loved. I&amp;rsquo;ve quit video editing for Electronic Sports and Anime, but I&amp;rsquo;ve already achieved what I wanted. So it wasn&amp;rsquo;t considered &amp;ldquo;quitting&amp;rdquo;. Something interesting and scary has been happening to me for around 5 months, where I started to somehow &amp;ldquo;think about quitting&amp;rdquo; just having the idea whispering in my head is scary, because the moment you start to think about it, that means there is something wrong.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Elaborate: Adding New Friends System</title>
-      <link>http://localhost:1313/posts/elaborate_on_adding_new_friends_system/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/elaborate_on_adding_new_friends_system/</link>
       <pubDate>Mon, 10 Nov 2025 18:40:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/elaborate_on_adding_new_friends_system/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;You don’t know about real loss, because that only occurs when you love something more than you love yourself. I doubt you’ve ever dared to love anybody that much.&lt;br&gt;&#xA;&lt;em&gt;Sean, Good Will Hunting (Park Bench Scene)&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Although my previous blog post was expected to be an explanation of what I assumed to be something I adopted a long time ago and never updated before:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;but I have never revised the list since a while&lt;/p&gt;</description>
+      <guid>https://8ce657771462.ngrok-free.app/posts/elaborate_on_adding_new_friends_system/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;You don’t know about real loss, because that only occurs when you love something more than you love yourself. I doubt you’ve ever dared to love anybody that much.&lt;br&gt;&#xA;&lt;em&gt;Sean, Good Will Hunting (Park Bench Scene)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Although my previous blog post was expected to be an explanation of what I assumed to be something I adopted a long time ago and never updated before:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;but I have never revised the list since a while&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adding new friends system</title>
-      <link>http://localhost:1313/posts/adding_new_friends_system/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/adding_new_friends_system/</link>
       <pubDate>Sat, 08 Nov 2025 00:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/adding_new_friends_system/</guid>
+      <guid>https://8ce657771462.ngrok-free.app/posts/adding_new_friends_system/</guid>
       <description>&lt;p&gt;I get asked:&lt;/p&gt;&#xA;&lt;p&gt;How do you deal with ordinary people? The ones that don&amp;rsquo;t bother you? and when does it start that they enter your life?&lt;/p&gt;&#xA;&lt;p&gt;This question has got me thinking. I recalled that checklist (set of rules) I have for making new friends, but I have never revised the list for a while. I have seen cases where people just hack the system, and suddenly they are knocking on the door of my heart before even check-listing half of it.&lt;br&gt;&#xA;The set of rules I have adapted is simple enough to help me make new friends; however, it does a greater job preventing “bad friends.” It makes sure I can still enjoy life and have good healthy relationships (without the need to call them friends), and this is where it helps me the most. More about it later; first, let’s get to see where this starts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Where You Are Allowed To Be You</title>
-      <link>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/where_you_are_allowed_to_be_you/</link>
       <pubDate>Thu, 06 Nov 2025 23:15:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</guid>
+      <guid>https://8ce657771462.ngrok-free.app/posts/where_you_are_allowed_to_be_you/</guid>
       <description>&lt;p&gt;To nerd out and talk about a particular topic that you are deeply interested in/ obsessed with, requires you to unveil part of yourself. Your personality, your affection, your love for that topic. Often, it feels like dancing in the symphony of that subject(my analogy is very consumed, but I feel it holds true here).&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Limits of the Regret Minimization Framework</title>
-      <link>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/the_limits_of_the_regret_minimization_framework/</link>
       <pubDate>Thu, 06 Nov 2025 22:30:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</guid>
+      <guid>https://8ce657771462.ngrok-free.app/posts/the_limits_of_the_regret_minimization_framework/</guid>
       <description>&lt;p&gt;When making decisions in life, especially when we are faced with selecting between two events, we find ourselves comparing how important they are in order to determine which event we should choose. Some people study the implications of each decision and measure how rewarding or penalizing the outcomes might be. Picking the least penalty is a tactic for choosing a decision under this scenario.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gratitude Register</title>
-      <link>http://localhost:1313/posts/gratitude_register/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/gratitude_register/</link>
       <pubDate>Thu, 06 Nov 2025 22:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/gratitude_register/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Everyone is atheist until the plane starts falling.&lt;/em&gt;&#xA;I have no clue who said this.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The numerous different stories that act as catalysts for returning to God and thinking about the existence of a grand designer or creator, shared by people across the globe, are interesting. There are a variety of patterns, and often the most interesting ones are those concluded through epistemic rationality rather than convenience or bias—where there was evidence that God existed, for them.&#xA;One pattern is how God existed in everyday life. A good example is the historical belief that the creation of all temples and religions around the world throughout history is an innate, lowkey, subtle need for God.&lt;/p&gt;</description>
+      <guid>https://8ce657771462.ngrok-free.app/posts/gratitude_register/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Everyone is atheist until the plane starts falling.&lt;/em&gt;&#xA;I have no clue who said this.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The numerous different stories that act as catalysts for returning to God and thinking about the existence of a grand designer or creator, shared by people across the globe, are interesting. There are a variety of patterns, and often the most interesting ones are those concluded through epistemic rationality rather than convenience or bias—where there was evidence that God existed, for them.&#xA;One pattern is how God existed in everyday life. A good example is the historical belief that the creation of all temples and religions around the world throughout history is an innate, lowkey, subtle need for God.&lt;/p&gt;</description>
     </item>
     <item>
       <title>State of Numbness</title>
-      <link>http://localhost:1313/posts/state-of-numbness/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/state-of-numbness/</link>
       <pubDate>Thu, 04 Sep 2025 17:43:34 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/state-of-numbness/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Early to rise early to bed, makes a man healthy but socially dead&lt;/em&gt;&#xA;fantasy character quote&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <guid>https://8ce657771462.ngrok-free.app/posts/state-of-numbness/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Early to rise early to bed, makes a man healthy but socially dead&lt;/em&gt;&#xA;fantasy character quote&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>why im doing this</title>
-      <link>http://localhost:1313/posts/why-i-do-this/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/why-i-do-this/</link>
       <pubDate>Thu, 04 Sep 2025 09:32:11 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/why-i-do-this/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;do things badly&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;As the years pass by, I found my self adapt to different reason to keep living.&#xA;to share. I&amp;rsquo;m not as clear as I use to about why I should be posting,&#xA;but looking back over the years I recall how writing started. how reasons changed.&lt;/p&gt;</description>
+      <guid>https://8ce657771462.ngrok-free.app/posts/why-i-do-this/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;do things badly&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;As the years pass by, I found my self adapt to different reason to keep living.&#xA;to share. I&amp;rsquo;m not as clear as I use to about why I should be posting,&#xA;but looking back over the years I recall how writing started. how reasons changed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>21</title>
-      <link>http://localhost:1313/posts/21/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/21/</link>
       <pubDate>Tue, 06 May 2025 12:19:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/21/</guid>
+      <guid>https://8ce657771462.ngrok-free.app/posts/21/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s May 6, and I will be turning 21 in less than a month.&#xA;I used to document at this time of the year, where I try as much as possible to reflect on the progress made this year, perhaps my learning process.&#xA;Alhamdullah, I have learned a lot. And I have tales to tell, but hopefully, choosing the most significant one will find a wider audience and fit.&#xA;I will talk in 3s three categories and 3 notes&lt;/p&gt;</description>
     </item>
   </channel>
