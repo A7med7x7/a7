@@ -2,20 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflection on Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/categories/reflection/</link>
+    <link>https://8ce657771462.ngrok-free.app/categories/reflection/</link>
     <description>Recent content in Reflection on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Thu, 04 Sep 2025 17:43:34 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Nov 2025 07:38:35 +0300</lastBuildDate>
+    <atom:link href="https://8ce657771462.ngrok-free.app/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I fear the person I will become</title>
+      <link>https://8ce657771462.ngrok-free.app/posts/i_fear_the_person_i_will_become/</link>
+      <pubDate>Thu, 20 Nov 2025 07:38:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>https://8ce657771462.ngrok-free.app/posts/i_fear_the_person_i_will_become/</guid>
+      <description>&lt;p&gt;The velocity at which I&amp;rsquo;m updating my beliefs about the world has never been known to be slow; saying &amp;ldquo;Oops&amp;rdquo; and updating my beliefs implies updating my behavior if needed. This oscillating pattern of behavior has been defining the kind and amount of love I receive in this world, updating a behavior is either bringing me joy by interacting with people, loving myself, or appreciating the world, or has led me to a series of overwhelm led by the need to solve the questions I’m cornered with.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>State of Numbness</title>
-      <link>http://localhost:1313/posts/state-of-numbness/</link>
+      <link>https://8ce657771462.ngrok-free.app/posts/state-of-numbness/</link>
       <pubDate>Thu, 04 Sep 2025 17:43:34 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/state-of-numbness/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Early to rise early to bed, makes a man healthy but socially dead&lt;/em&gt;&#xA;fantasy character quote&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <guid>https://8ce657771462.ngrok-free.app/posts/state-of-numbness/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Early to rise early to bed, makes a man healthy but socially dead&lt;/em&gt;&#xA;fantasy character quote&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>

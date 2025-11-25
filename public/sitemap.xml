@@ -2,97 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/categories/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/tags/feelings/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/posts/learning_to_feel_again/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/categories/personal/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/posts/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/tags/reflection/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/tags/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/tags/writing/</loc>
+    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/posts/i_fear_the_person_i_will_become/</loc>
+    <lastmod>2025-11-20T07:38:35+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/categories/reflection/</loc>
+    <lastmod>2025-11-20T07:38:35+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/posts/the_first_whisper_of_quitting/</loc>
+    <lastmod>2025-11-19T18:30:25+03:00</lastmod>
+  </url><url>
+    <loc>https://8ce657771462.ngrok-free.app/posts/elaborate_on_adding_new_friends_system/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/friendship/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/elaborate_on_adding_new_friends_system/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/legacy-systems/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/friendship/</loc>
-    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/legacy-systems/</loc>
-    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
-    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reflection/</loc>
-    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/adding_new_friends_system/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/posts/adding_new_friends_system/</loc>
     <lastmod>2025-11-08T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/relationships/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/relationships/</loc>
     <lastmod>2025-11-08T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/culture/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/culture/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/self-expression/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/self-expression/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/posts/where_you_are_allowed_to_be_you/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/writing/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/categories/writing/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/decision-making/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/decision-making/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/frameworks/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/frameworks/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal-philosophy/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/categories/personal-philosophy/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/posts/the_limits_of_the_regret_minimization_framework/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/belief/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/belief/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gratitude/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/gratitude/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gratitude_register/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/posts/gratitude_register/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/feelings/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/posts/state-of-numbness/</loc>
     <lastmod>2025-09-04T17:43:34+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/reflection/</loc>
-    <lastmod>2025-09-04T17:43:34+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/state-of-numbness/</loc>
-    <lastmod>2025-09-04T17:43:34+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
-    <lastmod>2025-09-04T17:43:34+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/meta/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/categories/meta/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/tags/personal/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why-i-do-this/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/posts/why-i-do-this/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/21/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/posts/21/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/archive/</loc>
+    <loc>https://8ce657771462.ngrok-free.app/categories/archive/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url>
 </urlset>
