@@ -1,6 +1,6 @@
 +++
-date = '2025-12-06T08:38:46+03:00'
-draft = true
+date = '2025-12-06T08:38:46+03:00' 
+draft = false
 tags = [ 'relationships', 'attachment']
 categories = ['reflections']
 title = "Learning the Truth About How I Love"
