@@ -1,5 +1,5 @@
 +++
-date = '2025-12-06T03:00:00+03:00'
+date = '2025-12-05T03:00:00+03:00'
 draft = false
 title = 'Consenting to the Game Rules'
 tags = ['reflection', 'thinking']
