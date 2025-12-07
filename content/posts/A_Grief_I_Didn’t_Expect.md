@@ -31,6 +31,7 @@ This piece is the first to encounter when searching for what this term means. I 
 - **because for an avoidant, the guilt, the loss, the shame, all of it, it doesn't hit them right in the same moment that it hits you**,*this explains my writing [state of numbness](https://a7med7x7.github.io/a7.github.io/posts/state-of-numbness/)* 
     
 - **When the dust has settled, when the thread of closeness is gone**; *this explains why I avoided establishing direct relationship (closeness), and decided to use [society buckets](https://a7med7x7.github.io/a7.github.io/posts/adding_new_friends_system/#:~:text=Luckily%2C%20society%20gave%20us%20names%20as%20placeholders%20for%20people%20that%20even%20can%20help%20define%20the%20interactions%20and%20limits%20of%20relationships%20to%20have%20with%20people)*
+
 ---
 
 ## On the harm I caused others

@@ -8,8 +8,22 @@
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Fri, 05 Dec 2025 03:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 08:38:46 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attachment</title>
+      <link>http://localhost:1313/tags/attachment/</link>
+      <pubDate>Sat, 06 Dec 2025 08:38:46 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/attachment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relationships</title>
+      <link>http://localhost:1313/tags/relationships/</link>
+      <pubDate>Sat, 06 Dec 2025 08:38:46 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/relationships/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Reflection</title>
       <link>http://localhost:1313/tags/reflection/</link>
@@ -60,6 +74,20 @@
       <description></description>
     </item>
     <item>
+      <title>Anxiety</title>
+      <link>http://localhost:1313/tags/anxiety/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/anxiety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/tags/personal/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Friendship</title>
       <link>http://localhost:1313/tags/friendship/</link>
       <pubDate>Mon, 10 Nov 2025 18:40:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
@@ -71,13 +99,6 @@
       <link>http://localhost:1313/tags/legacy-systems/</link>
       <pubDate>Mon, 10 Nov 2025 18:40:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/tags/legacy-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Relationships</title>
-      <link>http://localhost:1313/tags/relationships/</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/tags/relationships/</guid>
       <description></description>
     </item>
     <item>
@@ -120,13 +141,6 @@
       <link>http://localhost:1313/tags/gratitude/</link>
       <pubDate>Thu, 06 Nov 2025 22:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/tags/gratitude/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Personal</title>
-      <link>http://localhost:1313/tags/personal/</link>
-      <pubDate>Thu, 04 Sep 2025 09:32:11 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/tags/personal/</guid>
       <description></description>
     </item>
   </channel>
