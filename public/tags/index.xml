@@ -150,5 +150,26 @@
       <guid>http://localhost:1313/tags/drafts/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/tags/archive/</link>
+      <pubDate>Tue, 06 May 2025 12:19:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/archive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Draft</title>
+      <link>http://localhost:1313/tags/draft/</link>
+      <pubDate>Tue, 06 May 2025 12:19:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/draft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>http://localhost:1313/tags/archives/</link>
+      <pubDate>Wed, 14 Aug 2024 19:52:21 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/archives/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
