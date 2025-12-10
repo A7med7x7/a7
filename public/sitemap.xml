@@ -125,14 +125,14 @@
     <loc>http://localhost:1313/posts/gratitude_register/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/state-of-numbness/</loc>
-    <lastmod>2025-09-04T17:43:34+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/meta/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/why-i-do-this/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/state-of-numbness/</loc>
+    <lastmod>2025-06-22T17:43:34+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/drafts/</loc>
     <lastmod>2025-06-02T20:04:03+03:00</lastmod>

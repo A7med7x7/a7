@@ -1,5 +1,5 @@
 +++
-date = '2025-09-04T17:43:34+03:00'
+date = '2025-06-22T17:43:34+03:00'
 draft = false
 title = 'State of Numbness'
 tags = ['writing', 'feelings']
