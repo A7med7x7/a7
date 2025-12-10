@@ -105,7 +105,7 @@ Deployment happens automatically when you push changes to the `main` branch.
 GitHub Actions builds the Hugo site and publishes it to:
 
 ```
-https://a7med7x7.github.io/a7.github.io/
+https://a7med7x7.github.io/
 ```
 
 No manual steps required.

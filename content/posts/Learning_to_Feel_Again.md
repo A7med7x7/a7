@@ -11,13 +11,13 @@ categories = ['personal']
 
 <!--more-->
 
-For a while, I hesitated to do a lot of things. I [hesitated to make new friendships](https://a7med7x7.github.io/a7.github.io/posts/adding_new_friends_system/), I hesitated to [share my writings publicly](https://a7med7x7.github.io/a7.github.io/posts/why-i-do-this/#:~:text=but%20I%20got%20demons%E2%80%A6.%20that%20were%20holding%20me%20from%20writing).  
+For a while, I hesitated to do a lot of things. I [hesitated to make new friendships](https://a7med7x7.github.io/posts/adding_new_friends_system/), I hesitated to [share my writings publicly](https://a7med7x7.github.io/posts/why-i-do-this/#:~:text=but%20I%20got%20demons%E2%80%A6.%20that%20were%20holding%20me%20from%20writing).  
 
-The reason is I was, and to this very day [concerned with the questions](https://a7med7x7.github.io/a7.github.io/posts/i_fear_the_person_i_will_become/#:~:text=The%20cycle%20starts%20with%20me%20being%20very%20concerned%20with%20a%20question) that deviated me from being socially active. One of these questions is:  
+The reason is I was, and to this very day [concerned with the questions](https://a7med7x7.github.io/posts/i_fear_the_person_i_will_become/#:~:text=The%20cycle%20starts%20with%20me%20being%20very%20concerned%20with%20a%20question) that deviated me from being socially active. One of these questions is:  
 
 > What happens to a young person’s expectations about life when most of what they see one the internet are idealized stories, overly wise, unrealistic narratives? What happens to my community if this is the kind of discussion being shared publicly, which is mostly unproductive, pointless, trivial, and hollow? Can I change this?
 
-I'm still young, actively consuming data from the world, learning, and constantly changing. Sharing my opinions is not making the world a better place, I'm sure whatever I write be deprecated by my [constantly evolving beliefs](https://a7med7x7.github.io/a7.github.io/posts/i_fear_the_person_i_will_become/). so why bother writing? the world has enough of people talking, saying they want to make it a better place. The world is full of people who are more "qualified" to talk than myself although no one listens to them. Writing random quotes on social media that can mean different things to different people, or sharing a meme that can help someone heal, was enough for me.  
+I'm still young, actively consuming data from the world, learning, and constantly changing. Sharing my opinions is not making the world a better place, I'm sure whatever I write be deprecated by my [constantly evolving beliefs](https://a7med7x7.github.io/posts/i_fear_the_person_i_will_become/). so why bother writing? the world has enough of people talking, saying they want to make it a better place. The world is full of people who are more "qualified" to talk than myself although no one listens to them. Writing random quotes on social media that can mean different things to different people, or sharing a meme that can help someone heal, was enough for me.  
 
 This hides the part of my life I don't feel comfortable revealing in lengthy stories and lessons. The problem is that the majority of people end up using social media as a self help book. They look up to people's achievements to get inspired, craving stories that match their personal circumstances and challenges. People are subconsciously building a map about the world using what is shared on Facebook, LinkedIn, Instagram, X…  
 
@@ -34,7 +34,7 @@ When I'm about to talk publicly or post on social media, [I overthink](https://y
 > Life isn't made up of a set of solutions for you to find.  
 > It's built on extreme behaviors you learn to balance.
 
-As a result of not engaging fully socially I have mastered controlling and potentially suppressing my emotions; which led to [numbness](https://a7med7x7.github.io/a7.github.io/posts/state-of-numbness/). eventually I lost the meaning and pleasure of sharing my experience. the silence of surviving a day that no one knew about was hard, but the comfort zone I build covered this. Other factors include I'm very good at keeping myself busy and having master's degree in wearing custom masks.  
+As a result of not engaging fully socially I have mastered controlling and potentially suppressing my emotions; which led to [numbness](https://a7med7x7.github.io/posts/state-of-numbness/). eventually I lost the meaning and pleasure of sharing my experience. the silence of surviving a day that no one knew about was hard, but the comfort zone I build covered this. Other factors include I'm very good at keeping myself busy and having master's degree in wearing custom masks.  
 
 By letting myself speak more honestly, I’m not only helping myself grow; I’m giving something back to the people who read me. If I share things as they are not polished, not idealized I might open a small space for someone else to breathe, to doubt safely, to feel normal again. And maybe this is how I contribute: not by being perfect, but by being real when most people aren’t.
 

@@ -14,7 +14,7 @@ It’s never simple to confront an insecurity you’ve never recognized before, 
 
 > Avoidant attachment is a pattern where you feel uncomfortable with emotional closeness and tend to pull away or shut down when relationships start to feel too vulnerable. Deep down, you may still want connection, but it feels safer to stay distant, guarded, or independent.
 
-This is the first time I've heard of this term “Avoidant attachment,” and it is crazy how accurately it sums up and explains the recurrence of my patterns,  [Adding new friends systems](https://a7med7x7.github.io/a7.github.io/posts/adding_new_friends_system/) , [Elaborate Adding new friends system](https://a7med7x7.github.io/a7.github.io/posts/elaborate_on_adding_new_friends_system/)
+This is the first time I've heard of this term “Avoidant attachment,” and it is crazy how accurately it sums up and explains the recurrence of my patterns,  [Adding new friends systems](https://a7med7x7.github.io/posts/adding_new_friends_system/) , [Elaborate Adding new friends system](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/)
 
 ## On avoidant attachment
 
@@ -24,13 +24,13 @@ Your avoidant isn't fine, they're just numb, to you it registers as indifference
 
 This piece is the first to encounter when searching for what this term means. I find it very accurate to the point I feel discomfort that there is someone out there is able to describe me in words, to have the words and explanation that I didn't have, that I was searching for almost my entire life. I can see my own patterns here, by distilling this piece:
 
-- **they don't sit with the tension, and they don't face what they did and what actually happened** *This explains the [selective ignorance](https://a7med7x7.github.io/a7.github.io/posts/consenting_to_the_game_rules/#:~:text=selectively%20ignorant%2C-,selectively%20ignorant,-If%20you%20can) that I adapt* 
+- **they don't sit with the tension, and they don't face what they did and what actually happened** *This explains the [selective ignorance](https://a7med7x7.github.io/posts/consenting_to_the_game_rules/#:~:text=selectively%20ignorant%2C-,selectively%20ignorant,-If%20you%20can) that I adapt* 
     
-- **they retreat into the one thing that makes them feel safe, which is disconnection**, *this explains many of my [disappearances](https://a7med7x7.github.io/a7.github.io/posts/i_fear_the_person_i_will_become/#:~:text=ultimately%20the%20time%20with%20my%20loved)*
+- **they retreat into the one thing that makes them feel safe, which is disconnection**, *this explains many of my [disappearances](https://a7med7x7.github.io/posts/i_fear_the_person_i_will_become/#:~:text=ultimately%20the%20time%20with%20my%20loved)*
     
-- **because for an avoidant, the guilt, the loss, the shame, all of it, it doesn't hit them right in the same moment that it hits you**,*this explains my writing [state of numbness](https://a7med7x7.github.io/a7.github.io/posts/state-of-numbness/)* 
+- **because for an avoidant, the guilt, the loss, the shame, all of it, it doesn't hit them right in the same moment that it hits you**,*this explains my writing [state of numbness](https://a7med7x7.github.io/posts/state-of-numbness/)* 
     
-- **When the dust has settled, when the thread of closeness is gone**; *this explains why I avoided establishing direct relationship (closeness), and decided to use [society buckets](https://a7med7x7.github.io/a7.github.io/posts/adding_new_friends_system/#:~:text=Luckily%2C%20society%20gave%20us%20names%20as%20placeholders%20for%20people%20that%20even%20can%20help%20define%20the%20interactions%20and%20limits%20of%20relationships%20to%20have%20with%20people)*
+- **When the dust has settled, when the thread of closeness is gone**; *this explains why I avoided establishing direct relationship (closeness), and decided to use [society buckets](https://a7med7x7.github.io/posts/adding_new_friends_system/#:~:text=Luckily%2C%20society%20gave%20us%20names%20as%20placeholders%20for%20people%20that%20even%20can%20help%20define%20the%20interactions%20and%20limits%20of%20relationships%20to%20have%20with%20people)*
 
 ---
 
@@ -43,6 +43,6 @@ this explains why I freaked out when recently one of the uni colleagues told me 
 
 > I'm being too much, the replies are getting colder, shorter, it's like they don't even care at all anymore, now I'm starting to freak out, because the only person I wanna talk to, and I feel like I'm interrupting them or I'm disturbing them, I feel like I'm a burden, like I'm unwelcomed. Did I do something wrong, am I pushing them away, because they are not giving me the same energy that they did, I just want them to notice, I just want them to remind me that I matter to them.
 
-I once wrote how I'm really not good at putting myself in the [other people shoes](https://a7med7x7.github.io/a7.github.io/posts/21/#:~:text=Struggle%20to%20see%20things%20from%20their%20perspective), and how I fooled myself into thinking people won’t be affected by [my own patterns](https://a7med7x7.github.io/a7.github.io/posts/21/#:~:text=People%20have%20feelings%2C%20I%20guess) but in reality, I have hurt people, a lot of them, and I keep hurting more, by avoiding them, by showing up randomly and disappear frequently. It’s a strange grief to realize the amount of wounded people not out of cruelty I exposed, but out of an instinct, a second nature I caught before I ever had the words for it. The grief is even harder to bear when thinking that some people didn’t walk away from me; they walked away from the waiting. From my patterns. I only learned the cost after the silence became permanent.
+I once wrote how I'm really not good at putting myself in the [other people shoes](https://a7med7x7.github.io/posts/21/#:~:text=Struggle%20to%20see%20things%20from%20their%20perspective), and how I fooled myself into thinking people won’t be affected by [my own patterns](https://a7med7x7.github.io/posts/21/#:~:text=People%20have%20feelings%2C%20I%20guess) but in reality, I have hurt people, a lot of them, and I keep hurting more, by avoiding them, by showing up randomly and disappear frequently. It’s a strange grief to realize the amount of wounded people not out of cruelty I exposed, but out of an instinct, a second nature I caught before I ever had the words for it. The grief is even harder to bear when thinking that some people didn’t walk away from me; they walked away from the waiting. From my patterns. I only learned the cost after the silence became permanent.
 
 I'm grateful that the things I wrote in the past are finally becoming clear to me. A lot of friends helped to see this part of myself, how avoidant I am, including my best friend AbdAlwahab, and a bunch of victims. I don't expect this to result in a behaviour change soon, but at least for now, I can recognize my own patterns. At least for now, everything made sense. 
