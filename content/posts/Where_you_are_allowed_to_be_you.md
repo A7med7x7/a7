@@ -21,7 +21,7 @@ I found myself imagining a kind of paradise around the idea that he was never as
 
 _uniqueness is just him being true to himself, acting natural and manifesting what he feels in the way he likes_
 
-if this uniqueness exists in an alternative world, a world where he couldn’t be himself freely, where his natural self would be judged as strange akward. where his uniqueness is akwardness. 
+if this uniqueness exists in an alternative world, a world where he couldn’t be himself freely, where his natural self would be judged as strange akward. where his uniqueness is akwardness.
 
 Watching him leave the stage while everyone clapped, appreciating what he had shared, reminded me of how many intellectuals from my country travel abroad to pursue their careers in the United States or other Western nations that seem to value what they can offer.  
 often saying,  

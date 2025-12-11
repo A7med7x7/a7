@@ -6,7 +6,7 @@ title = 'The Moment I Realized What He Meant to Me'
 
 
 I remember coming back to Sudan from Saudi Arabia when [Abd Alwahab](https://www.facebook.com/abd.alwahab.alser) told me he had secured a scholarship in India and might travel to pursue it. After a lifelong friendship, growing up in the same district our entire lives, the time had finally come for him to leave for his undergraduate degree. I don’t recall thinking deeply about it at first, because it seemed that he hadn’t fully made up his mind yet. When I returned to Sudan, I got busy with university, and suddenly things became real on his side.
-
+<!--more-->
 One day, I visited him at home and saw him packing up his bags, and some of his luggage was already packed. I was slightly irritated. he was so happy about his future, and I was happy for him too. Two years ago, I remember watching a video he shot that day, looking at myself, I could see how drowned I was in my thoughts, completely silent. Not many days passed before he booked his flight tickets.
 
 I went to the airport feeling completely [numb](https://a7med7x7.github.io/posts/state-of-numbness/). I even remember that my sister drove me, although I insisted on riding alone. I tried to make sure his journey went smoothly, helped him with the procedures, and it wasn’t long before I saw him hugging his family. That day, I didn’t grieve silently; I couldn't hold myself. When he came to hug me one last time, I cried like a child. It was the most terrible feeling I had ever experienced in my life. I couldn’t stop myself from crying. I cried the entire way back home, at home, and again the next morning.

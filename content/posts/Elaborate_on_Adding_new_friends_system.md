@@ -20,7 +20,7 @@ I never expected the system to be perfect, or that I was doing what is ultimatel
 
 > [!NOTE] I deliberately selected the term *value* when saying assigning the name “Friend”, because it is not just a word, I consider it a *value*. Calling you a friend adds the values that require me to “allow myself to fall, to invest my emotions.”
 
-by this elboration I hope to clear the misconceptions that might accure from my previous writing, it build on top of the previous blog post [Adding new friends system](https://a7med7x7.github.io/posts/adding_new_friends_system/), you might want to take a look if you haven't. this conversation will particularly discuss the cases where the system is not good enough, why I was still using it?, how it is so bad to the people who should be friends. 
+by this elboration I hope to clear the misconceptions that might accure from my previous writing, it build on top of the previous blog post [Adding new friends system](https://a7med7x7.github.io/posts/adding_new_friends_system/), you might want to take a look if you haven't. this conversation will particularly discuss the cases where the system is not good enough, why I was still using it?, how it is so bad to the people who should be friends.
 
 ## Why so many rules? Life is meant to be simple.
 
@@ -71,7 +71,7 @@ This cycle of people showing genuine interest in me, then suddenly losing it, is
 Thinking it’s *your* thing to figure me out, who did I think I was? King Richard the Fifth? May I never trust my judgment again.
 
 
-### 3. But I'm hurt 2. 
+### 3. But I'm hurt 2.
 
 What once felt unbearable to remember now feels necessary to recall. This one almost slipped out of memory, but when I lost those potential cool “friends,” I wasn’t happy about it. I remember now that I didn’t like it at all.  
 
@@ -116,7 +116,6 @@ The system has been doing a great job protecting me from harmful relationships, 
   How do I define friendship as something prestigious and not instantly given?  
 
   The first fence in the system is crucial, it helps control the number of people in my life. I can’t be friends with everyone I meet; I’d end up with too many.
-
 
 
 ## Questions the legacy system fails to answer  

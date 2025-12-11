@@ -38,16 +38,16 @@ As a result of not engaging fully socially I have mastered controlling and poten
 
 By letting myself speak more honestly, I’m not only helping myself grow; I’m giving something back to the people who read me. If I share things as they are not polished, not idealized I might open a small space for someone else to breathe, to doubt safely, to feel normal again. And maybe this is how I contribute: not by being perfect, but by being real when most people aren’t.
 
-Now, I need to learn the opposite: I need to engage, to care. I need to feel and to love. To enhance the quality of my life, I must show my true colors without abandoning myself. 
+Now, I need to learn the opposite: I need to engage, to care. I need to feel and to love. To enhance the quality of my life, I must show my true colors without abandoning myself.
 
 I must stop wearing masks and let the changes that happen to me show up in my behavior with people. This way I can know who truly loves me and whose concerns include my problems.
   
 ---
 
 ### Perfect time does not exist
-> if you wait, until everything feels finished, you gonna miss the people who would have loved you exactly as you are. 
+> if you wait, until everything feels finished, you gonna miss the people who would have loved you exactly as you are.
 
-I've waited for a long time to get it right, to feel certain that I finally figured it all out. That I will have a good map of reality which can define ideal human interactions for me. But this never happened :), and I might waste my life waiting. And planning. 
+I've waited for a long time to get it right, to feel certain that I finally figured it all out. That I will have a good map of reality which can define ideal human interactions for me. But this never happened, and I might waste my life waiting. And planning.
 ### Let's give this a shot
 
 I've tried to read books, rush the process of writing and publicly sharing, spend hours consulting friends, and form smaller communities to test my ideas. Did they work? Not entirely, but they provided lessons and information.  
@@ -56,19 +56,20 @@ I have no clue if this is just one of those random 3:00 AM bursts of motivation 
 
 I will fail, it's okay. I'm freaking out while writing this, but the signs point me to try. I will share more because those who mind don’t matter, and those who matter don’t mind. Sharing my uncertainty can help someone; sharing my doubts when learning something can make someone's day better. Sharing my insecurities can bring me people who help me overcome them.
 
-  
-
 ---
-
-  
 
 ### In the end
 
 Having these pieces of notions connected and understood took me a long time. Yesterday, I was vulnerable, unaware of what I write here. My writing is not perfect; I could have used wiser words. Blind spots, potential mistakes, and pitfalls await me, but I welcome them, and I welcome whoever helps me in my journey.
   
 > For what is a man what has he got  
+
 > If not himself then he has not  
+
 > To say the things he truly feels  
+
 > And not the words of one who kneels  
+
 > The record shows I took the blows  
-> And did it my way
+
+> And did it my way.

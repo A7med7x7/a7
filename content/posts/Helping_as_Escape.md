@@ -25,6 +25,6 @@ The why behind this tactic/remedy is to escape the loop your mind can create, th
 
 >   *Mr anonymous 2: So you barely have to say a word, must be heaven*
 
-I loved my sister Kanno for this very reason, and subsequently, my niece GMGM. Kanno is very talkative, she can barely stop talking, and me? I’m economical with my words, she disturbs my peace when thinking, with her loud existence and so as her voice, but in recent years that I realized she was serving me, by allowing me to focus on her problems and stories, and just listen to her yapping and eventually detaching myself from my problems. 
+I loved my sister Kanno for this very reason, and subsequently, my niece GMGM. Kanno is very talkative, she can barely stop talking, and me? I’m economical with my words, she disturbs my peace when thinking, with her loud existence and so as her voice, but in recent years that I realized she was serving me, by allowing me to focus on her problems and stories, and just listen to her yapping and eventually detaching myself from my problems.
 
-This is not the only motive I have for helping people. 
+This is not the only motive I have for helping people.
