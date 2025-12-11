@@ -7,6 +7,16 @@ theme="nightfall"
 user = "a7"
 hostname = "github.io"
 
+openLinksInNewTab = true
+
+
+showMetadata = true       # Master switch for all metadata display
+showPublishedDate = true  # Show published date on post page
+showReadingTime = true    # Show reading time on post page
+showTags = true           # Show tags on post page
+showCategories = true     # Show categories on post page
+
+
 [params.author]
 name = "A.Alghali"
 #avatar = "assets/pfps/avatar.jpg"
