@@ -3,7 +3,7 @@ date = '2025-11-06T22:00:00+03:00'
 draft = false
 title = 'Gratitude Register'
 tags = ['reflection', 'gratitude', 'belief']
-categories = ['personal philosophy']
+categories = ['Thought']
 +++
 
 > *Everyone is atheist until the plane starts falling.*
