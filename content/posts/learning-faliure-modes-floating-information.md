@@ -1,7 +1,7 @@
 +++
 date = '2024-04-12T10:50:51+04:00'
 draft = false
-category = ['Field Notes']
+categories = ['Field Notes']
 title = 'Learning Faliure Modes - Floating Information'
 +++
 

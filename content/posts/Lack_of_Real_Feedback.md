@@ -1,7 +1,7 @@
 +++
 date = '2024-02-11T19:21:15+03:00'
 draft = false
-category = ["Archives"]
+categories = ["Archives"]
 title = 'Lack of Real Feedback'
 +++
 

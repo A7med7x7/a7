@@ -2,7 +2,7 @@
 date = '2024-08-14T19:52:21+03:00'
 draft = false
 tags = ['Archives']
-category = ["Archives"]
+categories = ["Archives"]
 title = 'Flow State and Sleep'
 +++
 

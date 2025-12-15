@@ -1,7 +1,7 @@
 +++
 date = '2024-04-12T10:50:51+03:00'
 draft = false
-category = ['Field Notes']
+categories = ['Field Notes']
 title = 'Learning Faliure Modes - Branching'
 +++
 
@@ -70,7 +70,7 @@ There are two approaches I found useful.
 
 ## Selective ignorance
 
-Selective ignorance means deliberately ignoring branches for later. You tell yourself, *I will worry about this later*, either when it becomes urgent or when you have free time after reaching a milestone. 
+Selective ignorance means deliberately ignoring branches for later. You tell yourself, *I will worry about this later*, either when it becomes urgent or when you have free time after reaching a milestone.
 Silencing your mind is not something you can do immediately. You train yourself over time. You make a commitment that when reading, you will not follow hyperlinks and will finish the main material first. It took me around four months to master this after deciding to change this pattern.
 
 ### How to apply

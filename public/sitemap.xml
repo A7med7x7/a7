@@ -74,6 +74,9 @@
     <loc>http://localhost:1313/tags/anxiety/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/archives/</loc>
+    <lastmod>2025-11-21T00:00:00+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/days_that_i_didnt_understand/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
@@ -143,6 +146,9 @@
     <loc>http://localhost:1313/posts/state-of-numbness/</loc>
     <lastmod>2025-06-22T17:43:34+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/drafts/</loc>
+    <lastmod>2025-06-02T20:04:03+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/drafts/</loc>
     <lastmod>2025-06-02T20:04:03+03:00</lastmod>
   </url><url>
@@ -163,9 +169,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/draft/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/learning-faliure-modes-branching/</loc>
-    <lastmod>2025-04-12T10:50:51+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/i_keep_failing_the_people_i_care_about/</loc>
     <lastmod>2025-03-25T19:12:13+03:00</lastmod>
@@ -188,8 +191,14 @@
     <loc>http://localhost:1313/posts/forgetting-too-easily/</loc>
     <lastmod>2024-04-22T14:30:59+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/field-notes/</loc>
+    <lastmod>2024-04-12T10:50:51+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/learning-faliure-modes-branching/</loc>
+    <lastmod>2024-04-12T10:50:51+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/learning-faliure-modes-floating-information/</loc>
-    <lastmod>2024-04-12T10:49:39+03:00</lastmod>
+    <lastmod>2024-04-12T10:50:51+04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/why-im-sharing-notes-regret/</loc>
     <lastmod>2024-03-19T23:50:55+03:00</lastmod>

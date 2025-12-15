@@ -2,6 +2,7 @@
 date = '2024-06-29T08:43:00+03:00'
 draft = false
 title = 'The greatest tragedy in life'
+categories = ['Archives']
 +++
 
 I once read:

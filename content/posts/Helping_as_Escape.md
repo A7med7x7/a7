@@ -17,7 +17,7 @@ categories = ['reflections']
 
 one of the instant remedies to low moments is by helping people, this is my only remedy if low moments stem from things I can't address at the moment, an insecurity or a wrong belief that I would need to heal from after a while, for me to pick myself up I look for people who are potentially having much worst days which they need help with, this way I can deliberately ignore my problems and shift my mind to think about some's else problem.  
 
-The why behind this tactic/remedy is to escape the loop your mind can create, thinking about your own problem, that you yourself know for sure the problem is not going to be solved at this very moment, where you have drawn yourself into your thoughts. This way, I can allow myself to breathe and call it a day. 
+The why behind this tactic/remedy is to escape the loop your mind can create, thinking about your own problem, that you yourself know for sure the problem is not going to be solved at this very moment, where you have drawn yourself into your thoughts. This way, I can allow myself to breathe and call it a day.
 
 ---
 

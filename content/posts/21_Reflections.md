@@ -3,7 +3,7 @@ date = '2025-06-02T20:04:03+03:00'
 draft = false
 description = "This note is an unfinished draft that I started but never completed. I felt uploading it, just as it is"
 title = 'The First 20 years of my life in a nutshell'
-category = ['Drafts']
+categories = ['Drafts', 'Archives']
 tags = ['Drafts']
 +++
 

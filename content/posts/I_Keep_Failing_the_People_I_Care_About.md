@@ -1,7 +1,7 @@
 +++
 date = '2025-03-25T19:12:13+03:00'
 draft = false 
-category = ["Archives"]
+categories = ["Archives"]
 title = 'I Keep Failing the People I Care About'
 +++
 
