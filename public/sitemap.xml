@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/a-user-manual-for-being-close-to-me/</loc>
+    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-12T20:40:54+03:00</lastmod>
+    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-12T20:40:54+03:00</lastmod>
+    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/relationships/</loc>
+    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/who-i-am-on-the-person-i-failed-to-define/</loc>
     <lastmod>2025-12-12T20:40:54+03:00</lastmod>
@@ -17,19 +32,10 @@
     <loc>http://localhost:1313/tags/attachment/</loc>
     <lastmod>2025-12-06T08:38:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-12-06T08:38:46+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/a_grief_i_didnt_expect/</loc>
     <lastmod>2025-12-06T08:38:46+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/reflections/</loc>
-    <lastmod>2025-12-06T08:38:46+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/relationships/</loc>
-    <lastmod>2025-12-06T08:38:46+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-06T08:38:46+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/consenting_to_the_game_rules/</loc>
@@ -63,9 +69,6 @@
     <lastmod>2025-11-21T08:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/learning_to_feel_again/</loc>
-    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2025-11-21T08:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/writing/</loc>
