@@ -43,7 +43,7 @@ These are usually the points you describe as: *“I don’t get how this fits”
 
 If I randomly told you the answer is *“spinner”*, you could link it to a [spinning wheel](https://en.wikipedia.org/wiki/Spinning_wheel) by name or by characteristics you have heard of before. this is why it is always useful to ask yourself: *what do I already know that looks similar to what I’m trying to understand right now?* Recently, I learned that there is a biological explanation for this. It relates to how [neurons](https://en.wikipedia.org/wiki/Neuron) in the brain become [connected](https://www.youtube.com/shorts/Rvmvt7gscIM) after long periods of practice. The way I imagine it is this: floating information represents a neuron with very weak connections or non. The more information you learn and link to it later, the more connected vertices this neuron gains. The more connections it has, the harder it becomes to forget.
 
-## The solution 
+## The solution
 
 The solution is simple. Search for what is relevant and helps you link new information to what you already know. Leaving information floating for even a week can make you forget it.
 

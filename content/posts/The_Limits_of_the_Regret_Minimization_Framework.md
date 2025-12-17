@@ -2,8 +2,8 @@
 date = '2025-11-06T22:30:00+03:00'
 draft = false
 title = 'The Limits of the Regret Minimization Framework'
-tags = ['decision making', 'reflection', 'frameworks']
-categories = ['personal philosophy']
+tags = ['decision making', 'personal philosphy', 'frameworks']
+categories = ['Thought']
 +++
 
 When making decisions in life, especially when we are faced with selecting between two events, we find ourselves comparing how important they are in order to determine which event we should choose. Some people study the implications of each decision and measure how rewarding or penalizing the outcomes might be. Picking the least penalty is a tactic for choosing a decision under this scenario.

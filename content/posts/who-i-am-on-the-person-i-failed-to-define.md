@@ -3,6 +3,7 @@ date = '2025-12-12T20:40:54+03:00'
 draft = false
 description = "A reflection on eight years of notes, trying to understand who I am. From ancestry and identity myths, to personality frameworks, introversion, Stoicism, antifragility, and the patterns of disappearance that shaped my relationships, this is the story of how every definition failed, what each framework tried to explain, and why the question “Who am I?” has remained the hardest to answer."
 title = 'Who I Am : on the Person I Failed to Define'
+categories = ['Personal']
 +++
 
 

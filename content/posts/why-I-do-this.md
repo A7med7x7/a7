@@ -3,7 +3,7 @@ date = '2025-09-04T09:32:11+03:00'
 title = 'Why I’m Sharing Notes'
 description = 'A personal reflection on my writing journey and the demons that held me back'
 tags = ['writing', 'personal']
-categories = ['meta']
+categories = ['Meta']
 +++
 
 > *do things badly*

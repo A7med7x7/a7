@@ -2,7 +2,7 @@
 date = '2024-03-19T11:48:47+03:00'
 draft = false
 tags = ['writing', 'personal']
-category = ['meta','Archives']
+category = ['Meta','Archives']
 title = "Why I'm Sharing Notes — Learned Too Late"
 +++
 
