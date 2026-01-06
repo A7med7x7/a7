@@ -6,7 +6,6 @@ tags = ['reflection', 'loss', 'growth']
 categories = ['Reflections']
 +++
 
-
 At the start of the year, I had to catch up with a team I’m part of. we wanted to escape the dull rhythm of formal meetings and genuinely check in on how everyone had lived through 2025.I asked a simple question:
 
 **If you had to sum up your entire year in five words, what would they be?**
@@ -45,7 +44,7 @@ Part of this was because of a [bizarre system](<https://a7med7x7.github.io/posts
 
 I’ve always had autonomy. I don’t remember being forced into much in my life. but this year, autonomy reached its maximum. I gained control over my environment and learned how to bend it toward my interests. more importantly, I learned how to limit this infinite freedom into something productive, something consistent. living away from home for the entire year amplified this. Autonomy showed up everywhere: in my daily life, in my decisions, and especially in my career.
 
-I never took my career too seriously. I let it flow with the questions I was curious about. I wasn’t chasing capitalism. I was chasing understanding. only in 2025 did I notice real progress. I found myself introducing myself in meetings, telling the story of how I got here, and in doing so, making it visible to myself for the first time, the brutal truth is this: it wasn’t discipline or ambition that carried me here, yes those were necessary but what was directing me. It was autonomy. not chasing money. not forcing myself to fit. Just following the questions I genuinely wanted to answer. the places where I have control. 
+I never took my career too seriously. I let it flow with the questions I was curious about. I wasn’t chasing capitalism. I was chasing understanding. only in 2025 did I notice real progress. I found myself introducing myself in meetings, telling the story of how I got here, and in doing so, making it visible to myself for the first time, the brutal truth is this: it wasn’t discipline or ambition that carried me here, yes those were necessary but what was directing me. It was autonomy. not chasing money. not forcing myself to fit. Just following the questions I genuinely wanted to answer. the places where I have control.
 
 ## Clarity
 

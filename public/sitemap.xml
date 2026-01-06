@@ -3,30 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-02T14:38:22+03:00</lastmod>
+    <lastmod>2026-01-07T00:23:51+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/conversation-with-a-stranger/</loc>
-    <lastmod>2026-01-02T14:38:22+03:00</lastmod>
+    <loc>http://localhost:1313/posts/before-art-literature-after-metaphor/</loc>
+    <lastmod>2026-01-07T00:23:51+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-02T14:38:22+03:00</lastmod>
+    <lastmod>2026-01-07T00:23:51+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/i-forget-too-much/</loc>
+    <lastmod>2026-01-05T19:14:36+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-in-five-words/</loc>
+    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-12-25T03:11:01+03:00</lastmod>
+    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/comparative-suffering/</loc>
-    <lastmod>2025-12-25T03:11:01+03:00</lastmod>
+    <loc>http://localhost:1313/tags/growth/</loc>
+    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/loss/</loc>
+    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reflection/</loc>
+    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/reflections/</loc>
+    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/comparative-suffering/</loc>
     <lastmod>2025-12-25T03:11:01+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/thought/</loc>
     <lastmod>2025-12-25T03:11:01+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/five-unplanned-hours/</loc>
-    <lastmod>2025-12-20T22:56:44+03:00</lastmod>
+    <loc>http://localhost:1313/posts/conversation-with-a-stranger/</loc>
+    <lastmod>2025-12-22T14:38:22+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2025-12-22T14:38:22+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/five-unplanned-hours/</loc>
     <lastmod>2025-12-20T22:56:44+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/a-user-manual-for-being-close-to-me/</loc>
@@ -35,16 +56,7 @@
     <loc>http://localhost:1313/tags/relationships/</loc>
     <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/before-you-heal-someone/</loc>
-    <lastmod>2025-12-15T14:03:43+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/growth/</loc>
-    <lastmod>2025-12-15T14:03:43+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reflection/</loc>
     <lastmod>2025-12-15T14:03:43+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/who-i-am-on-the-person-i-failed-to-define/</loc>
