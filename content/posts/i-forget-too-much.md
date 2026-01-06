@@ -1,5 +1,5 @@
 +++
-date = '2026-01-05T19:14:36+03:00'
+date = '2025-12-11T19:14:36+03:00'
 draft = false
 title = 'I Forget Too Much'
 +++
