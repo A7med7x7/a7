@@ -6,7 +6,7 @@ title = 'Before Art, Literature After Metaphor'
 
 
 
-> *I'm starting to notice things I never saw before — or maybe I saw them, but I wasn’t paying attention. For some reason, everything has become a metaphor.*  
+> *I'm starting to notice things I never saw before, or maybe I saw them, but I wasn’t paying attention. For some reason, everything has become a metaphor.*  
 > — Davis Mitchell
 
 I have always loved poetry, as a child, I wrote my own poems with a strange seriousness for someone my age, I remember the joy, the quiet excitement, the almost sacred feeling of sharing them with my family, especially my brother Mohammed and my sister Zeinab. They were the novelists of our home. writers in the fullest sense. everyone in the family wrote in their own way, but Mohammed and Zeinab were different.I felt like writing was not something they visited; it was something they lived inside.
@@ -19,9 +19,9 @@ It startled me. not because it was impressive, but because it was real.
 
 ## Writing and Drawing
 
-I had an exceptional hand. in instinct. my [handwriting](https://drive.google.com/file/d/1b4TSmcSTjkrddagvrRF00381FjxUK-EF/view?usp=drivesdk) was unmistakable. no one else in my class wrote the way I did, it is not arrogance. I loved the moment the teacher gave us permission to start writing. the sound of pens touching paper. The quiet focus. the feeling that my hand was finally allowed to exist, not just my head that receives.
+I had an exceptional hand. in instinct. my [handwriting](https://drive.google.com/file/d/1_4OF1whmtSLnFxzGlLAMFxNN0n14A0G1/view?usp=sharing) was unmistakable. no one else in my class wrote the way I did, it is not arrogance. I loved the moment the teacher gave us permission to start writing. the sound of pens touching paper. The quiet focus. the feeling that my hand was finally allowed to exist, not just my head that receives.
 
-I loved how my handwriting made me feel, I drew constantly. At around eleven, I carried a sketchbook everywhere. I filled it with football club logos, skulls, fragments of nature, imagined symbols, things I no longer remember clearly but still feel emotionally. I wasn't talented it was scratches that I just loved, scratches that I was once into art, I was left handed. that mattered more than I knew, over the years, I underwent multiple surgeries due to fractures. my hand grew incorrectly. my grip on the pen changed. the way I positioned paper on a desk changed. I didn’t notice any of it at the time, I adapted silently, instinctively, without protest, but I was gradually losing my touch. without noticing. 
+I loved how my handwriting made me feel, I drew constantly. At around eleven, I carried a sketchbook everywhere. I filled it with football club logos, skulls, fragments of nature, imagined symbols, things I no longer remember clearly but still feel emotionally. I wasn't talented it was scratches that I just loved, scratches that I was once into art, I was left handed. that mattered more than I knew, over the years, I underwent multiple surgeries due to fractures. my hand grew incorrectly. my grip on the pen changed. the way I positioned paper on a desk changed. I didn’t notice any of it at the time, I adapted silently, instinctively, without protest, but I was gradually losing my touch. without noticing.
 
 Then came the six hours surgery on my left hand, for an entire year, my hand was almost paralyzed. I could only move the tips of my fingers. the nerves that once guided motion and precision no longer spoke the same language. when movement returned, it was altered. Permanent. I never wrote the same way again.
 
